@@ -3,10 +3,10 @@ most asked LLD questions
 
 #Entities Relationships are given below
 
-Board
-  height
-  width
-  size(height*width)
+#Board
+#  height
+#  width
+#  size(height*width)
 
 Player
    name
